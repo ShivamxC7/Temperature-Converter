@@ -6,7 +6,7 @@ CSS
 Javascript
 
 # Features
-Convert Celsius to Fahrenheit and Kelvin
+Convert Celsius to Fahrenheit and Fahrenheit to Celsius
 Clean and simple user interface
 Instant results using JavaScript
 

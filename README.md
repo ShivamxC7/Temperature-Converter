@@ -1,5 +1,5 @@
 # Temperature-Converter
-A beginner-friendly JavaScript project that converts temperature between Celsius, Fahrenheit, and Kelvin using basic DOM manipulation.
+Temperature converter (Celsius ↔ Fahrenheit) built with HTML, CSS, and JavaScript.
 # Built with
 HTML 
 CSS 
